@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://github.com/shavindaL/advice-generator-app)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL : [Solution](https://github.com/shavindaL/advice-generator-app)
+- Live Site URL : [Live site](https://advice-generator-i1oeqyus2-shavindal.vercel.app/)
 
 ## My process
 
