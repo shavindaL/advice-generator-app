@@ -32,7 +32,7 @@ const Advice = () => {
         <div className='bg-dark-grayish-blue rounded-lg max-w-lg p-9'>
             <h1 className='text-center text-neon-green'> Advice #{adviceId} </h1>
             <p className='text-light-cyan font-manrope text-size-28 text-center max-w-md p-6'>
-                '{adviceText}'
+            &quot;{adviceText}&quot; {/*&quot; == "" */}
             </p>
 
             <Image className='justify-center' src='/pattern-divider-desktop.svg' width={448} height={400} alt={''} />
