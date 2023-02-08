@@ -9,7 +9,7 @@ const Layout = ({ children }: CustomComp) => {
                 {children}
             </div>
             <div className='attribution text-center text-light-cyan'>
-                Challenge by <a className='hover:text-neon-green' href='https://www.frontendmentor.io?ref=challenge' target='_blank'>Frontend Mentor</a>.
+                Challenge by <a className='hover:text-neon-green' href='https://www.frontendmentor.io?ref=challenge' target='_blank' rel='noreferrer'>Frontend Mentor</a>.
                 Coded by <a href='#'>shavindaL</a>.
             </div>
         </div>
