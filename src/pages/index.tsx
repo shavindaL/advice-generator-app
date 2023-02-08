@@ -10,9 +10,11 @@ export default function Home() {
   return (
     <>
       <Head>
-      <link rel='shortcut icon' href='/favicon-32x32.png' />
+        <link rel='shortcut icon' href='/favicon-32x32.png' />
       </Head>
-      <Layout children={Advice()} />
+      <Layout>
+        <Advice />
+      </Layout>
     </>
   )
 }
